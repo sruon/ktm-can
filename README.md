@@ -1,1 +1,1 @@
-# ktm-can
+# KTM CAN Bus resources
